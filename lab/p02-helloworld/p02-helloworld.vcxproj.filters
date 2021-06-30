@@ -27,9 +27,15 @@
     <ClInclude Include="p02-helloworld.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="helloworld.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="p02-helloworld.cpp">
+    <ClCompile Include="p02-helloworld-auto.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="helloworld.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
