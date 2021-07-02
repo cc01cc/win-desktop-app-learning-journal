@@ -147,7 +147,6 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="helloworld.cpp" />
-    <ClCompile Include="p02-helloworld-auto.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="p02-helloworld.rc" />
